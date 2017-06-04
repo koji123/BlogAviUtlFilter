@@ -1,0 +1,3 @@
+[submodule "bandingMT_simd"]
+	path = bandingMT_simd
+	url = git@github.com:koji123/bandingMT_simd.git
